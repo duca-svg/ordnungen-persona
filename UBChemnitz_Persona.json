@@ -1,6 +1,6 @@
 {
   "title": "Ordnungen-Bibliotheksassistent",
-  "subtitle": "Spezialist für Ordnungen der Universitätsbiliothek Chemnitz",
+  "subtitle": "Spezialist für Ordnungen der Universitätsbibliothek Chemnitz",
   "model-name": "Qwen 3 30B A3B Instruct 2507",
   "model": "qwen3-30b-a3b-instruct-2507",
   "temperature": 0.0,
