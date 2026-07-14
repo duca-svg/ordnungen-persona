@@ -2,7 +2,7 @@
   "title": "Ordnungen-Bibliotheksassistent",
   "subtitle": "Spezialist für Ordnungen der Universitätsbibliothek Chemnitz",
   "model-name": "Deepseek V4 Flash",
-  "model": "deepseek-v4",
+  "model": "deepseek-r4",
   "temperature": 0.0,
   "top_p": 0.05,
   "messages": [
